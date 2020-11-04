@@ -1,0 +1,44 @@
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\obj\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Domen\bin\Debug\Domen.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\obj\Debug\Domen.dll
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\obj\Debug\Domen.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\bin\Debug\Domen.dll
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Domen\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Domen\obj\Debug\Domen.pdb

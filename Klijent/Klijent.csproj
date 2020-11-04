@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C246052-9B7F-4081-9240-FEB105BCD307}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Klijent</RootNamespace>
+    <AssemblyName>Klijent</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmEvidencijaPrisustva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEvidencijaPrisustva.Designer.cs">
+      <DependentUpon>FrmEvidencijaPrisustva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGlavnaForma.Designer.cs">
+      <DependentUpon>FrmGlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPretragaKursa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPretragaKursa.Designer.cs">
+      <DependentUpon>FrmPretragaKursa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPretragaUcenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPretragaUcenika.Designer.cs">
+      <DependentUpon>FrmPretragaUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrikazPohadjanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrikazPohadjanja.Designer.cs">
+      <DependentUpon>FrmPrikazPohadjanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosKursa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosKursa.Designer.cs">
+      <DependentUpon>FrmUnosKursa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosNivoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosNivoa.Designer.cs">
+      <DependentUpon>FrmUnosNivoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosPohadjanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosPohadjanja.Designer.cs">
+      <DependentUpon>FrmUnosPohadjanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosPrisustva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosPrisustva.Designer.cs">
+      <DependentUpon>FrmUnosPrisustva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnosUcenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnosUcenika.Designer.cs">
+      <DependentUpon>FrmUnosUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Komunikacija.cs" />
+    <Compile Include="KontrolerKI.cs" />
+    <Compile Include="FrmPrijaviSe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrijaviSe.Designer.cs">
+      <DependentUpon>FrmPrijaviSe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmEvidencijaPrisustva.resx">
+      <DependentUpon>FrmEvidencijaPrisustva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGlavnaForma.resx">
+      <DependentUpon>FrmGlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPretragaKursa.resx">
+      <DependentUpon>FrmPretragaKursa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPretragaUcenika.resx">
+      <DependentUpon>FrmPretragaUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrijaviSe.resx">
+      <DependentUpon>FrmPrijaviSe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrikazPohadjanja.resx">
+      <DependentUpon>FrmPrikazPohadjanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosKursa.resx">
+      <DependentUpon>FrmUnosKursa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosNivoa.resx">
+      <DependentUpon>FrmUnosNivoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosPohadjanja.resx">
+      <DependentUpon>FrmUnosPohadjanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosPrisustva.resx">
+      <DependentUpon>FrmUnosPrisustva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnosUcenika.resx">
+      <DependentUpon>FrmUnosUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{eda0b6fc-8429-4652-b683-a95e6a6f7dd9}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_20200112-121257_One UI Home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71504b3279467ae714a9b5e012f68052.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\study-concept-education-background-back-to-school-vector-6208933.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71504b3279467ae714a9b5e012f680521.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-books-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-flickr-button-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

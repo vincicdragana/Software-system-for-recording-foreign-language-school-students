@@ -1,0 +1,96 @@
+C:\Users\Arsa\Desktop\Domen\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Desktop\Domen\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Desktop\Domen\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Desktop\Domen\Server\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Server\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.exe
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.pdb
+C:\Users\Arsa\Desktop\Domen\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.exe
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\bin\Debug\Server.exe.config
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\bin\Debug\Server.exe
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\bin\Debug\Server.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\bin\Debug\Domen.dll
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\bin\Debug\Domen.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe.config
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\bin\Debug\Server.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.FormaServer.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.exe
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Server\obj\Debug\Server.pdb

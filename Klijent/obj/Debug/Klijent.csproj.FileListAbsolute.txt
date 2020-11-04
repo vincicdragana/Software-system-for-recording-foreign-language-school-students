@@ -1,0 +1,135 @@
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\Domen\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\Domen\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\IIkol\Kodovi\Template - Sinhrono\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.dll
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\bin\Debug\Domen.pdb
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.FormaKlijent.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BinaryBioskop\PS\Projektni\Template\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.GenerateResource.Cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.exe
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\bin\Debug\Klijent.exe
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\bin\Debug\Klijent.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\bin\Debug\Domen.dll
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\bin\Debug\Domen.pdb
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmPretragaUcenika.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmPrijaviSe.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmPrikazPohadjanja.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmUnosNivoa.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmUnosPohadjanja.resources
+C:\Users\draga\Downloads\5f434b77a0eff\Template - Projektni\Klijent\obj\Debug\Klijent.FrmUnosUcenika.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaUcenika.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrijaviSe.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrikazPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosNivoa.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosUcenika.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Storage.dll
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Storage.pdb
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaKursa.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmEvidencijaPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmEvidencijaPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaKursa.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaUcenika.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrijaviSe.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrikazPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosNivoa.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosUcenika.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\svasta\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Klijent.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.dll
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\bin\Debug\Domen.pdb
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmEvidencijaPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmGlavnaForma.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaKursa.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPretragaUcenika.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrijaviSe.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmPrikazPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosKursa.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosNivoa.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPohadjanja.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosPrisustva.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.FrmUnosUcenika.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.exe
+C:\Users\draga\OneDrive\Desktop\Zavrsni rad\SkolaStranihJezikaSoftveri\Klijent\obj\Debug\Klijent.pdb
